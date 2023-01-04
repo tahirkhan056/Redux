@@ -1,0 +1,16 @@
+.header {
+  height: 80px;
+  width: 100%;
+  text-align: center;
+  box-shadow: 5px 5px 5px 5px #dedede;
+  position: fixed;
+  top: 0;
+  background-color: blueviolet;
+}
+
+.header-span {
+  margin: 21px;
+  font-size: 2rem;
+  font-weight: bold;
+  color: aliceblue;
+}
